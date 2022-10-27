@@ -1,0 +1,452 @@
+[{
+        "_id": "634e7619cb4d530be19abbc4",
+        "name": "GLADELIG - Bowl",
+        "id": 1,
+        "section": "Dining room",
+        "price": "13",
+        "description": "The beautiful sandy-glazed surface turns every meal into pure joy. Decorate your table with clean classic shapes and a strong crafted look. A timeless feel with a unique and decorative design.",
+        "img": "https://www.ikea.com/gb/en/images/products/gladelig-bowl-grey__0799737_pe767611_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbc5",
+        "name": "GLADELIG - Plate",
+        "id": 2,
+        "section": "Dining room",
+        "price": "15",
+        "description": "The beautiful sandy-glazed surface turns every meal into pure joy. Decorate your table with clean classic shapes and a strong crafted look. A timeless feel with a unique and decorative design.        ",
+        "img": "https://www.ikea.com/gb/en/images/products/gladelig-plate-grey__0799744_pe767614_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbc6",
+        "name": "GLADELIG - Mug",
+        "id": 3,
+        "section": "Dining room",
+        "price": "3",
+        "description": "The beautiful sandy-glazed surface turns every meal into pure joy. Decorate your table with clean classic shapes and a strong crafted look. A timeless feel with a unique and decorative design.",
+        "img": "https://www.ikea.com/gb/en/images/products/gladelig-mug-grey__0800258_pe767830_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbc7",
+        "name": "ENTUSIASM - Mug",
+        "id": 4,
+        "section": "Dining room",
+        "price": "10",
+        "description": "A cosy tea with family and friends or curled up with a TV dinner in the sofa corner? ENTUSIASM is available as a mug and bowl for simpler dishes, perfect to combine thanks to their various patterns.",
+        "img": "https://www.ikea.com/gb/en/images/products/entusiasm-mug-patterned-blue__0659244_pe710554_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbc8",
+        "name": "ENTUSIASM - Side plate",
+        "id": 5,
+        "section": "Dining room",
+        "price": "12",
+        "description": "A snack with the family in the kitchen or curled up with a sandwich on the sofa? Moments when ENTUSIASM side plate is perfect, especially if you match it with ENTUSIASM mug and bowl with the same patterns.",
+        "img": "https://www.ikea.com/gb/en/images/products/entusiasm-side-plate-patterned-blue__1027857_pe835102_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbc9",
+        "name": "VARDAGEN - Glass",
+        "id": 6,
+        "section": "Dining room",
+        "price": "4",
+        "description": "Life’s a party, but most days are pretty ordinary. Make the most of them by serving delicious beverages in this simple, timeless glassware. Like it? There’s a whole series with the same name.",
+        "img": "https://www.ikea.com/gb/en/images/products/vardagen-glass-clear-glass__0533549_pe648678_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbca",
+        "name": "SKALA - Tray",
+        "id": 7,
+        "section": "Dining room",
+        "price": "12",
+        "description": "Large birch tray that works as well for many guests at the end of the day as for drying mushrooms and chanterelles after a day in the forest. The handles make the tray easy to grip and carry.",
+        "img": "https://www.ikea.com/gb/en/images/products/skala-tray-birch__35996_pe126850_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbcb",
+        "name": "OMBONAD - Tray",
+        "id": 8,
+        "section": "Dining room",
+        "price": "29",
+        "description": "Stylish minimalism meets rustic materials. The OMBONAD series has a timeless yet bold and modern design. Together, the parts create a matched whole – as solitaires they will be an eye-catcher in any home.",
+        "img": "https://www.ikea.com/gb/en/images/products/ombonad-tray-walnut__1028150_pe835259_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbcc",
+        "name": "GRUNKA - 4-piece kitchen utensil set",
+        "id": 9,
+        "section": "Dining room",
+        "price": "7",
+        "description": "Stainless steel",
+        "img": "https://www.ikea.com/gb/en/images/products/grunka-4-piece-kitchen-utensil-set-stainless-steel__0711741_pe728430_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbcd",
+        "name": "IKEA 365+",
+        "id": 10,
+        "section": "Dining room",
+        "price": "19",
+        "description": "Stainless steel",
+        "img": "https://www.ikea.com/gb/en/images/products/ikea-365-4-piece-serving-set-stainless-steel__0713271_pe729381_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbce",
+        "name": "IKEA 365+",
+        "id": 11,
+        "section": "Dining room",
+        "price": "19",
+        "description": "Stainless steel",
+        "img": "https://www.ikea.com/gb/en/images/products/ikea-365-4-piece-serving-set-stainless-steel__0713271_pe729381_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbcf",
+        "name": "ANNONS - 5-piece cookware set",
+        "id": 12,
+        "section": "Kitchen",
+        "price": "12",
+        "description": "Stainless steel",
+        "img": "https://www.ikea.com/gb/en/images/products/annons-5-piece-cookware-set-glass-stainless-steel__43510_pe139263_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd0",
+        "name": "ANNONS - Pot with lid",
+        "id": 13,
+        "section": "Kitchen",
+        "price": "7",
+        "description": "Stainless steel",
+        "img": "https://www.ikea.com/gb/en/images/products/annons-pot-with-lid-glass-stainless-steel__0714768_pe730240_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd1",
+        "name": "HEMLAGAD - Saucepan",
+        "id": 14,
+        "section": "Kitchen",
+        "price": "12",
+        "description": "Black",
+        "img": "https://www.ikea.com/gb/en/images/products/hemlagad-saucepan-black__0789069_pe763804_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd2",
+        "name": "HEMALAGAD - Pot with lid",
+        "id": 15,
+        "section": "Kitchen",
+        "price": "19",
+        "description": "Black",
+        "img": "https://www.ikea.com/gb/en/images/products/hemlagad-pot-with-lid-black__0789051_pe763794_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd3",
+        "name": "SNITSIG - Pot with lid",
+        "id": 16,
+        "section": "Kitchen",
+        "price": "12",
+        "description": "Stainless steel",
+        "img": "https://www.ikea.com/gb/en/images/products/snitsig-pot-with-lid-stainless-steel__0712836_pe729099_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd4",
+        "name": "MALM - Ottoman bed",
+        "id": 17,
+        "section": "Bedroom",
+        "price": "359",
+        "description": "This bed gives you spacious storage without taking up more floor space. Simply flip up the bed base and hide your things inside. Place it freestanding or with the headboard against a wall.",
+        "img": "https://www.ikea.com/gb/en/images/products/malm-ottoman-bed-white__0764898_pe753384_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd6",
+        "name": "HEMNES - Bed frame",
+        "id": 19,
+        "section": "Bedroom",
+        "price": "299",
+        "description": "Bed frame with 2 storage boxes, white",
+        "img": "https://www.ikea.com/gb/en/images/products/hemnes-bed-frame-with-2-storage-boxes-white-stain-luroey__0948865_pe799352_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd7",
+        "name": "HEMNES - Bedframe, standard",
+        "id": 20,
+        "section": "Bedroom",
+        "price": "229",
+        "description": "Standard, single",
+        "img": "https://www.ikea.com/gb/en/images/products/hemnes-bed-frame-white-stain-loenset__0637616_pe698429_s5.jpg?f=l"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd8",
+        "name": "HEMNES - Bed frame, black-brown",
+        "id": 21,
+        "section": "Bedroom",
+        "price": "179",
+        "description": "Standard single",
+        "img": "https://www.ikea.com/gb/en/images/products/hemnes-bed-frame-black-brown__0655475_pe709045_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbd9",
+        "name": "Dvala - Fitted sheet",
+        "id": 22,
+        "section": "Bedroom",
+        "price": "22",
+        "description": "Double",
+        "img": "https://www.ikea.com/gb/en/images/products/nattjasmin-fitted-sheet-dark-grey__0668967_pe714788_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbda",
+        "name": "NATTJASMIN - Sheet",
+        "id": 23,
+        "section": "Bedroom",
+        "price": "15",
+        "description": "White",
+        "img": "https://www.ikea.com/gb/en/images/products/dvala-sheet-white__0604337_pe681197_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbdb",
+        "name": "NATTJASMIN - Sheet",
+        "id": 24,
+        "section": "Bedroom",
+        "price": "15",
+        "description": "Gray",
+        "img": "https://www.ikea.com/gb/en/images/products/nattjasmin-sheet-dark-grey__0668978_pe714792_s5.jpg?f=m"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbdc",
+        "name": "ULLVIDE - Pillowcase",
+        "id": 25,
+        "section": "Bedroom",
+        "price": "6",
+        "description": "White",
+        "img": "https://www.ikea.com/gb/en/images/products/ullvide-pillowcase-white__0607075_pe682722_s5.jpg?f=m"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbdd",
+        "name": "ULLVIDE - Fitted sheet",
+        "id": 26,
+        "section": "Bedroom",
+        "price": "15",
+        "description": "White",
+        "img": "https://www.ikea.com/gb/en/images/products/ullvide-fitted-sheet-white__0604096_pe681036_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbde",
+        "name": "ENHET - Wash-stand",
+        "id": 27,
+        "section": "Bathroom",
+        "price": "214",
+        "description": "2 drawers, White",
+        "img": "https://www.ikea.com/gb/en/images/products/enhet-tvaellen-wash-stand-with-2-drawers-white-frame-white-pilkan-tap__1017201_pe830759_s5.jpg?f=m"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbdf",
+        "name": "ENHET - Wash-basin cabinet",
+        "id": 28,
+        "section": "Bathroom",
+        "price": "186",
+        "description": "2 doors, White",
+        "img": "https://www.ikea.com/gb/en/images/products/enhet-tvaellen-wash-basin-cabinet-with-2-doors-white-pilkan-tap__0831352_pe777073_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe0",
+        "name": "ENHET - Bs cb f wb w shlf/doors",
+        "id": 29,
+        "section": "Bathroom",
+        "price": "90",
+        "description": "Doors and shelves, White/concrete",
+        "img": "https://www.ikea.com/gb/en/images/products/enhet-bs-cb-f-wb-w-shlf-doors-white-concrete-effect__0816070_pe773273_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe1",
+        "name": "ENSEN - Wash-basin mixer tap",
+        "id": 30,
+        "section": "Bathroom",
+        "price": "60",
+        "description": "Chrome plated",
+        "img": "https://www.ikea.com/gb/en/images/products/ensen-wash-basin-mixer-tap-with-strainer-chrome-plated__0755162_pe748289_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe2",
+        "name": "SALJEN - Wash-basin mixer tap",
+        "id": 31,
+        "section": "Bathroom",
+        "price": "20",
+        "description": "Black",
+        "img": "https://www.ikea.com/gb/en/images/products/saljen-wash-basin-mixer-tap-black__0914013_pe783826_s5.jpg?f=xl§§"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe3",
+        "name": "VOXNAN - Wash-basin mixer tap",
+        "id": 32,
+        "section": "Bathroom",
+        "price": "75",
+        "description": "Chrome plated",
+        "img": "https://www.ikea.com/gb/en/images/products/voxnan-wash-basin-mixer-tap-with-strainer-chrome-plated__0755175_pe748302_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe4",
+        "name": "FOTINGEN - Shower tray",
+        "id": 33,
+        "section": "Bathroom",
+        "price": "179",
+        "description": "White, sleek",
+        "img": "https://www.ikea.com/gb/en/images/products/fotingen-shower-tray__0833137_pe778679_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe5",
+        "name": "BROGRUND - Shower set with thermostatic mixer",
+        "id": 34,
+        "section": "Bathroom",
+        "price": "215",
+        "description": "Chrome plated",
+        "img": "https://www.ikea.com/gb/en/images/products/brogrund-shower-set-with-thermostatic-mixer-chrome-plated__0755271_pe748315_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe6",
+        "name": "CHAMAEDOREA ELEGANS - Potted plant",
+        "id": 35,
+        "section": "Home decoration",
+        "price": "2",
+        "description": "Parlor palm, 9cm",
+        "img": "https://www.ikea.com/gb/en/images/products/chamaedorea-elegans-potted-plant-parlour-palm__0797381_pe766847_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe7",
+        "name": "KONSTFULL - Vase",
+        "id": 36,
+        "section": "Home decoration",
+        "price": "4",
+        "description": "Frosted glass/black, 10cm",
+        "img": "https://www.ikea.com/gb/en/images/products/konstfull-vase-frosted-glass-black__1081152_pe858271_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe8",
+        "name": "SOCKERÄRT - Vase",
+        "id": 37,
+        "section": "Home decoration",
+        "coordinates": 0,
+        "price": "12",
+        "description": "Black",
+        "img": "https://www.ikea.com/gb/en/images/products/sockeraert-vase-black__0444812_pe595263_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbe9",
+        "name": "FEJKA - Weeping fig",
+        "id": 38,
+        "section": "Home decoration",
+        "price": "60",
+        "description": "Artificial potted plant, 21cm",
+        "img": "https://www.ikea.com/gb/en/images/products/fejka-artificial-potted-plant-in-outdoor-weeping-fig__0748885_pe745274_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbea",
+        "name": "FEJKA - Monstera",
+        "id": 39,
+        "section": "Home decoration",
+        "price": "45",
+        "description": "Artificial potted plant, 19cm",
+        "img": "https://www.ikea.com/gb/en/images/products/fejka-artificial-potted-plant-in-outdoor-monstera__0614197_pe686822_s5.jpg?f=m"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbeb",
+        "name": "DYPSIS LUTESCENS - Areca palm",
+        "id": 40,
+        "section": "Home decoration",
+        "price": "37",
+        "description": "Artificial potted plant, 24cm",
+        "img": "https://www.ikea.com/gb/en/images/products/dypsis-lutescens-potted-plant-areca-palm__0653973_pe708202_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbec",
+        "name": "SPATHIPHYLLUM - Peace lily",
+        "id": 41,
+        "section": "Home decoration",
+        "price": "27",
+        "description": "Artificial potted plant, 24cm",
+        "img": "https://www.ikea.com/gb/en/images/products/spathiphyllum-potted-plant-peace-lily__0654013_pe708240_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbed",
+        "name": "CRASSULA OVATA - Money tree",
+        "id": 42,
+        "section": "Home decoration",
+        "price": "25",
+        "description": "Artificial potted plant, 22cm",
+        "img": "https://www.ikea.com/gb/en/images/products/crassula-ovata-potted-plant-with-pot-money-tree__0997115_pe822606_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbee",
+        "name": "RADERMACHERA - China doll",
+        "id": 43,
+        "section": "Home decoration",
+        "price": "8",
+        "description": "Artificial potted plant, 15cm",
+        "img": "https://www.ikea.com/gb/en/images/products/radermachera-potted-plant-china-doll__0828433_pe776593_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbef",
+        "name": "LEDSJÖ - LED wall lamp",
+        "id": 44,
+        "section": "Lighting",
+        "price": "55",
+        "description": "Stainless steel",
+        "img": "https://www.ikea.com/gb/en/images/products/ledsjoe-led-wall-lamp-stainless-steel__0582357_pe670678_s5.jpg?f=xl"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbf0",
+        "name": "KABOMBA - LED wall lamp",
+        "id": 45,
+        "section": "Lighting",
+        "price": "65",
+        "description": "Dimmable chrome-plated/glossy",
+        "img": "https://www.ikea.com/gb/en/images/products/kabomba-led-wall-lamp-dimmable-chrome-plated-glossy__0990219_pe818790_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbf1",
+        "name": "KABOMBA - LED wall lamp with mirror",
+        "id": 46,
+        "section": "Lighting",
+        "price": "60",
+        "description": "Dimmable chrome-plated/glossy",
+        "img": "https://www.ikea.com/gb/en/images/products/kabomba-led-wall-lamp-with-mirror-dimmable-chrome-plated-glossy__1013466_pe829206_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbf3",
+        "name": "STOFTMOLN - LED ceiling/wall lamp",
+        "id": 48,
+        "section": "Lighting",
+        "price": "13",
+        "description": "Smart wireless dimmable/warm white white, 24cm",
+        "img": "https://www.ikea.com/gb/en/images/products/stoftmoln-led-ceiling-wall-lamp-smart-wireless-dimmable-warm-white-white__1014412_pe829650_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbf4",
+        "name": "HYBY - Ceiling lamp",
+        "id": 49,
+        "section": "Lighting",
+        "price": "15",
+        "description": "White",
+        "img": "https://www.ikea.com/gb/en/images/products/hyby-ceiling-lamp-white__0607749_pe683178_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbf5",
+        "name": "NYMÅNE - Ceiling spotlight with 3 spots",
+        "id": 50,
+        "section": "Lighting",
+        "price": "35",
+        "description": "White",
+        "img": "https://www.ikea.com/gb/en/images/products/nymane-ceiling-spotlight-with-3-spots-white__0607344_pe682893_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbf6",
+        "name": "KLEPPSTAD - Bed frame",
+        "id": 51,
+        "section": "Bedroom",
+        "price": "129",
+        "description": "White/Vissle beige, 160x200 cm",
+        "img": "https://www.ikea.com/nl/en/images/products/kleppstad-bed-frame-white-vissle-beige__1035340_pe840527_s5.jpg?f=s"
+    },
+    {
+        "_id": "634e7619cb4d530be19abbf7",
+        "name": "ÅSVANG - Foam mattress",
+        "id": 52,
+        "section": "Bedroom",
+        "price": "119",
+        "description": "Firm/white, 160x200 cm",
+        "img": "https://www.ikea.com/nl/en/images/products/asvang-foam-mattress-firm-white__0986619_pe818095_s5.jpg?f=s"
+    }
+]
