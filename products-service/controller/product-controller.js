@@ -5,8 +5,8 @@ const log =
     require("../config/config")[process.env.NODE_ENV || "develoment"].log();
 
 async function getProducts(req, res, next) {
-    res.json(products);
     log.info("Products sent");
+    res.json(products);
 }
 
 async function getByID(req, res, next) {

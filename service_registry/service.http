@@ -1,0 +1,16 @@
+PUT http://localhost:7070/register/test-service/1.0.0/8000
+Content-Type: application/json
+
+
+PUT http://localhost:7070/register/test-service/1.1.0/8001
+Content-Type: application/json
+
+PUT http://localhost:7070/register/test-service/1.2.0/8002
+Content-Type: application/json
+
+GET http://localhost:7070/find/test-service/1
+Content-Type: application/json
+
+
+GET http://localhost:7070/getall
+Content-Type: application/json

@@ -8,12 +8,12 @@ const service = require("../server/service")(config);
 
 const server = http.createServer(service);
 
-server.listen(process.env.PORT || 3000);
+server.listen(process.env.PORT || 7070);
 
 server.on("listening", () => {
     log.info(
         `Hi there! I'm listening on port ${server.address().port} in ${service.get(
-   "env"
-  )} mode.`
+      "env"
+    )} mode.`
     );
 });

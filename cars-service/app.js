@@ -7,7 +7,7 @@ const router = require("./router/router");
 
 const app = express();
 const log = config.log();
-const PORT = 44444;
+const PORT = 4001;
 
 app.use(express.json());
 
