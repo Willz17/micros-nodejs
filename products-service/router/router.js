@@ -7,6 +7,7 @@ const {
 } = require("../controller/product-controller");
 
 router.get("/", getProducts);
+
 /**
  * term : name or id
  */

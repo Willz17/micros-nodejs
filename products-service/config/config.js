@@ -8,6 +8,14 @@ const getLogger = (serviceName, serviceVersion, level) =>
     bunyan.createLogger({ name: `${serviceName}:${serviceVersion}`, level });
 
 module.exports = {
-    development: { name, version, log: () => getLogger(name, version, "debug") },
-    production: { name, version, log: () => getLogger(name, version, "info") },
+    development: {
+        name,
+        version,
+        log: () => getLogger(name, version, "debug"),
+    },
+    production: {
+        name,
+        version,
+        log: () => getLogger(name, version, "info"),
+    },
 };
