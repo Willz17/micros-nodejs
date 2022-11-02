@@ -1,6 +1,30 @@
 console.log("hello world");
 const content = document.querySelector(".content");
 
+class PageSate {
+    constructor() {
+        let currentState = new DefaultState(this);
+
+        this.init = function() {
+            this.change(new DefaultState());
+        };
+
+        this.change = (state) => {
+            if (currentState !== state) currentState = state;
+        };
+    }
+}
+
+const DefaultState = function(page) {};
+
+const ProductState = function(page) {
+    ProductsHandler.productFetcher();
+};
+
+const CarState = function(page) {
+    CarsHandler.carFetcher();
+};
+
 const ProductsHandler = (function() {
     const fetchProducts = async() => {
         const PRODUCTS_API = "http://localhost:4001/rtx/api/products";
@@ -15,7 +39,7 @@ const ProductsHandler = (function() {
         for (let product of products) {
             const course_container = document.createElement("div");
             course_container.classList.add("card");
-            course_container.classList.add("col-md-6");
+            course_container.classList.add("col-md-4");
             course_container.classList.add("mb-3");
             // course_container.classList.add("me-2");
 
@@ -64,7 +88,7 @@ const ProductsHandler = (function() {
     };
 
     return {
-        fetch: fetchProducts,
+        productFetcher: fetchProducts,
     };
 })();
 
@@ -76,12 +100,17 @@ const CarsHandler = (function() {
         polluteCars(json);
     };
 
+    function capitalize(string) {
+        return string.charAt(0).toUpperCase() + string.slice(1);
+    }
+
     const polluteCars = async(cars) => {
         content.innerHTML = "";
         for (let car of cars) {
             const card = document.createElement("div");
             card.classList.add("card");
             card.classList.add("col-md-3");
+            card.classList.add("bg-light");
             // card.classList.add("m-1");
             card.classList.add("mb-3");
 
@@ -92,7 +121,8 @@ const CarsHandler = (function() {
             name.classList.add("card-title");
             name.classList.add("mt-2");
             name.classList.add("text-primary");
-            name.innerText = car.name;
+            name.classList.add("text-center");
+            name.innerText = capitalize(car.name);
 
             const displacement = document.createElement("span");
             displacement.classList.add("badge");
@@ -110,13 +140,31 @@ const CarsHandler = (function() {
             acc.classList.add("badge");
             acc.classList.add("m-1");
             acc.classList.add("bg-success");
-            acc.innerText = car.Acceleration;
+            acc.innerText = `${car.Acceleration} Km/H`;
+
+            const mpg = document.createElement("span");
+            mpg.classList.add("badge");
+            mpg.classList.add("m-1");
+            mpg.classList.add("bg-secondary");
+            mpg.innerText = `${car.Miles_per_Gallon} M/G`;
+
+            const weight = document.createElement("span");
+            weight.classList.add("badge");
+            weight.classList.add("m-1");
+            weight.classList.add("bg-secondary");
+            weight.innerText = `${car.Weight_in_lbs} lbs`;
+
+            const cylinders = document.createElement("span");
+            cylinders.classList.add("badge");
+            cylinders.classList.add("m-1");
+            cylinders.classList.add("bg-primary");
+            cylinders.innerText = `${car.Cylinders} cylinders`;
 
             const horsePower = document.createElement("h6");
             horsePower.classList.add("badge");
             horsePower.classList.add("m-1");
             horsePower.classList.add("bg-danger");
-            horsePower.innerText = car.Horsepower;
+            horsePower.innerText = `${car.Horsepower} Km/H`;
 
             const year = document.createElement("span");
             year.classList.add("badge");
@@ -131,6 +179,9 @@ const CarsHandler = (function() {
             body.appendChild(origin);
             body.appendChild(acc);
             body.appendChild(year);
+            body.appendChild(mpg);
+            body.appendChild(weight);
+            body.appendChild(cylinders);
 
             card.appendChild(body);
             content.appendChild(card);
@@ -142,35 +193,17 @@ const CarsHandler = (function() {
     };
 })();
 
-// const RegistryHandler = (function() {
-//     const fetchServices = async() => {
-//         const SERVICE_API = "http://localhost:7070/getall";
-//         const data = await fetch(SERVICE_API, { method: "GET" });
-//         console.log(data);
-//     };
-
-//     return {
-//         registryService: fetchServices,
-//     };
-// })();
-
-// home
-document.addEventListener("DOMContentLoaded", ProductsHandler.fetch());
+const state = new PageSate();
+state.init();
 
 const products_lst = document.getElementById("products-action");
 products_lst.addEventListener("click", () => {
-    document.location.reload();
-    ProductsHandler.fetch();
+    // document.location.reload();
+    state.change(new ProductState());
 });
 
 const cars_lst = document.getElementById("cars-action");
 cars_lst.addEventListener("click", () => {
     // document.location.reload();
-    CarsHandler.carFetcher();
+    state.change(new CarState());
 });
-
-// const services_lst = document.getElementById("registry-action");
-// services_lst.addEventListener("click", async() => {
-//     // console.log("clicked");
-//     RegistryHandler.registryService();
-// });
